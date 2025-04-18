@@ -1,0 +1,28 @@
+.menu{
+    justify-content: space-between;
+    width: 1440px;
+    display: flex;
+    font-size: 24px;
+    list-style: none;
+}
+.Section{
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.boxes{
+    justify-content: center;
+    margin: 40px;
+    display: flex;
+}
+
